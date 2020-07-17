@@ -1,0 +1,15 @@
+{
+  "name": "sony-home-page-scaffolding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": "https://gitlab.com/css-bootcamp-level-0/sony-home-page-scaffolding.git",
+  "author": "ThoughtWorks Pune Frontend Community",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "1.12.3",
+    "sass": "^1.17.3"
+  }
+}
